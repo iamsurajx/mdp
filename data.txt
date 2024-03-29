@@ -1,0 +1,20 @@
+For a person who is diabetic:
+
+Number of Pregnancies: 5
+Skin Thickness value: 35
+Diabetes Pedigree Function value: 0.6
+Glucose Level: 150
+Insulin Level: 80
+Age of the Person: 40
+BMI value: 25
+Blood Pressure value: 70
+For a person who is not diabetic:
+
+Number of Pregnancies: 1
+Skin Thickness value: 25
+Diabetes Pedigree Function value: 0.2
+Glucose Level: 100
+Insulin Level: 30
+Age of the Person: 30
+BMI value: 22
+Blood Pressure value: 80
